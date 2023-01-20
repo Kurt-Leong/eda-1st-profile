@@ -1,0 +1,38 @@
+
+  body {
+    background-color:rgb(177, 172, 172)  
+  }
+
+  .heading {
+    margin: auto;
+  width: 50%;
+  border: 3px solid rgb(5, 5, 5);
+  padding: 10px;  
+  text-align:center;
+ }
+.section {
+  display:flex;
+}
+  .intro { 
+ 
+    
+  }
+
+  .intro1 { 
+   
+    
+  }
+
+
+  .center {
+     
+  }
+
+  .box {
+   
+  }
+
+
+
+
+
