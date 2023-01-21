@@ -1,0 +1,43 @@
+Week two structure.
+
+A.Setup HTML and CSS blog	
+	1.understand purpose of your blog
+	2. Add a blog directory with template HTML
+	3.Link your CSS file to your HTML file
+B. Learn HTML and CSS
+
+	1.Have selected a path to learn from, allowing you to gain an understanding in:
+		* Basic HTML pages with tags (HTML, head, title, etc)
+		* Adding paragraphs, heading, links images, list, tables
+		* Dividing content on a page using divs and spans
+		
+	2.Understand and apply classes and id's
+	3.BE able to navigate the Dom
+	4.Understand and use box design
+	5.Understand and create responsive design (media queries)
+	6.Understand and use semantic structuring
+
+C.DevTool Tutorial
+	1.Navigate and edit a website's HTML and CSS element to using the chrome DevTools inspector
+	2.Use DevTools to manipulate elements in the DOM
+	3.Use DevTools console and other commands
+	4.Examine network and resources
+D.Add HTML and CSS to Your Blog
+	1.Set up a basic HTML page with appropriate tags (HTML, head, title, etc)
+	2.Add paragraphs, headings, links images, lists, and/or tables
+	3.Divide content on a page using divs and spans
+	4.Include a viewport meta tag in your HTML file
+	5.Use media queries in a CSS file to change the page layout for mobile (320px), tablet (768px) and desktop (1200px+) screen size
+	6.Link an external stylesheet to an HTML document
+	7.Position element using CSS
+	8.Modify element stye(size, colour, etc) using CSS
+	9.Use classed and ids to manipulate elements
+
+E.Technical Blog CSS Concepts
+	1.Compare CSS concepts to determine the differences
+	2.Explain how and when to use CSS concepts
+	
+F.JavaScript Primer
+	1.Define different JavaScript data types: numbers, strings, and booleans. 
+	2.How variables are used
+
