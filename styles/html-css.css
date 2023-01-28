@@ -70,3 +70,15 @@ width:1000px;
   font-size:40px;
 }
 
+
+.responsive-pics {
+  max-width:50%;
+  height:auto;
+  padding:20px 20px 20px 100px;
+}
+
+.code {
+  font-family:monospace
+
+
+}
