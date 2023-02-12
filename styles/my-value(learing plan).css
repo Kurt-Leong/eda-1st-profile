@@ -44,14 +44,14 @@
   }
 
   .question {
-    font-size:15px;
+    font-size:28px;
     padding:10px 50px 10px 50px;
 
   }
 
   .para {
     padding:10px 40px 10px 60px;
-    font-size:12px;
+    font-size:30px;
   }
   .button {
     font-size: 1em;
@@ -61,3 +61,40 @@
 
    
   }
+
+  .responsive-pics {
+    max-width:50%;
+    height:auto;
+    padding:20px 20px 20px 100px;
+  }
+
+  .code {
+    font-family:monospace;
+    font-size: 2em;
+  }
+
+  .container {
+    padding: 50px;
+  }
+  
+
+
+  .block {
+    display:inline;
+    padding:10px;
+    font-size: 50px;
+    margin:20px;
+    border:3px solid black;
+    height:1000px;
+    width:1000px;
+    }
+
+  .block1 {
+    display:inline-block;
+    padding:25px;
+    font-size: 20px;
+    margin:20px;
+    border:3px solid black;
+    height:10px;
+    width:10px;
+    }
