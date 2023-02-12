@@ -23,21 +23,42 @@
   and (-webkit-min-device-pixel-ratio: 2) {
 
 }
+
+a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
   body {
-    background-color:rgb(177, 172, 172)  
+    text-align:center;
+    background-color:white
+   
  
   }
+.navigation{
+  background-color: black;
+  color:white;
+  width: 100%;
+  text-align: center;
+  border: 3px solid black 
+  
+}
+
+.nav {
+  color:white;
+  text-align: center;
+}
 
   .heading {
     font-size: 50px;
     background:black;
-    color:silver;
+    color:white;
     margin:0;
-  border: 3px solid rgb(5, 5, 5);
-  padding: 4rem;  
-  text-align:center;
+    border: 3px solid rgb(5, 5, 5);
+    padding: 4rem;  
+    text-align:center;
  }
-.wraping {
+
+ .wraping {
    width:min(90%, 300px);
    display:flex;
    list-style: inside;
@@ -59,8 +80,11 @@
   margin-left: 50px;
   width:min(90%, 300px);
 }
+
+
  
 .container {
+  margin-top: 1px;
   margin:min(90%,10px);
   display:flex;
   flex:50%;
@@ -71,9 +95,58 @@
   list-style:circle;
 }
 
-.responsive-pics {
-  max-width:50%;
-  height:auto;
-  padding:20px 20px 40px 20px;
+.list1 {
+  margin: auto;
+  padding:20px 10px 20px 150px;
+  display:auto;
+  margin:min(90%,10px)
 }
 
+.list2{
+  margin: auto;
+  padding:20px 20000px 20px,10px;
+  margin:min(90%,10px)
+}
+
+.responsive-pics {
+  margin:min(90%,10px);
+  max-width:50%;
+  height:auto;
+  padding:200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin:auto;
+}
+
+.question {
+  font-size:15px;
+  padding:10px 50px 10px 50px;
+
+}
+
+.button {
+  font-size: 1em;
+  font-weight: bold;
+  background:white;
+  margin-left:2rm;
+
+ 
+}
+
+.code {
+  font-family:monospace
+
+
+  
+}
+
+.link {
+  padding-bottom: 100px;
+  margin-bottom: 100px;
+}
+
+.intro{
+  font-size:30px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}

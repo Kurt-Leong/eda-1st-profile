@@ -23,8 +23,14 @@
 
   }
 
+  a:link { text-decoration: none; }
+a:visited { text-decoration: none; }
+a:hover { text-decoration: none; }
+a:active { text-decoration: none; }
+
   body {
-    background-color:rgb(177, 172, 172)  
+    text-align:center;
+    background-color:white
  
   }
 
@@ -32,11 +38,25 @@
     text-align:center;
   }
 
+  .navigation{
+    background-color: black;
+    color:white;
+    width: 100%;
+    text-align: center;
+    border: 3px solid black 
+    
+  }
+  
+  .nav {
+    color:white
+  }
+  
+
   .heading {
     font-size: 50px;
     margin:0;
     background:black;
-    color:silver;
+    color:white;
     margin:0;
   border: 3px solid rgb(5, 5, 5);
   padding-block: 4rem;  
@@ -61,11 +81,18 @@
 
    
   }
+  
+ 
 
   .responsive-pics {
+    margin:min(90%,10px);
     max-width:50%;
     height:auto;
-    padding:20px 20px 20px 100px;
+    padding:200px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin:auto;
   }
 
   .code {
@@ -74,7 +101,7 @@
   }
 
   .container {
-    padding: 50px;
+    padding: 100px
   }
   
 
